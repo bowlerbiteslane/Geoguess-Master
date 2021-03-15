@@ -30,7 +30,7 @@
         class="mt-8"
         justify="center"
       >
-        <span id="copyright">All rights reserved. Copyright © {{ new Date().getFullYear() }} <strong>Spider Hand</strong></span>
+        <span id="copyright">All rights reserved. Copyright © {{ new Date().getFullYear() }}</span>
       </v-row>
       <v-row 
         class="mt-2"

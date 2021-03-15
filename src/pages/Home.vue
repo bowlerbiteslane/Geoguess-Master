@@ -45,7 +45,7 @@
         </v-row>
         <v-row justify="center">
           <div class="description-wrapper">
-            Geoguess Manulife is a free geoguess game. Players compete how close each player can guess a random locations in five rounds. You can play multiplayer game with your friends up to five friends. The first player creates a room and decide a room size, and then other players type the same room name name as the first player decided and the game will start.
+            Geoguess is a free geoguess game. Players compete how close each player can guess a random locations in five rounds. You can play multiplayer game with your friends up to five friends. The first player creates a room and decide a room size, and then other players type the same room name name as the first player decided and the game will start.
           </div>
         </v-row>
       </v-container>
@@ -59,7 +59,7 @@
         </v-row>
         <v-row justify="center">
           <div class="description-wrapper">
-            I set quotas to show Street View and Map so I keep running this game for free. If the map color is inverted or doesn't load properly, it means the quotas has been exceeded on the day. It will reset at midnight Pacific Time. Sorry for inconvenience. However, this game is open source so you can build your own game server and play games unlimitedly. If you are interesed in building your own game server, please read the instruction on my <a href="https://github.com/spider-hand/Geoguess-Master-Web">Github</a>.
+            Quotas are set on Street View and Map so this game can be run for free. If the map color is inverted or doesn't load properly, it means the quotas has been exceeded on the day. It will reset at midnight Pacific Time. Sorry for inconvenience. However, this game is open source so you can build your own game server and play games unlimitedly. If you are interesed in building your own game server, please read the instruction on my <a href="https://github.com/spider-hand/Geoguess-Master-Web">Github</a>.
           </div>
         </v-row>      
       </v-container>

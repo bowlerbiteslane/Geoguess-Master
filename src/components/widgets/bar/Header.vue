@@ -6,7 +6,7 @@
       src="@/assets/logo.png"
       width="45"
     />
-    <span class="title">Geoguess Manulife</span>
+    <span class="title">Geoguess (Manulife Edition)</span>
     <div class="flex-grow-1"></div>
     <v-btn 
       text
