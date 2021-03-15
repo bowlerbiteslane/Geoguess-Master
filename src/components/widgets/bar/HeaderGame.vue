@@ -12,7 +12,7 @@
       <span class="sub-text">ROUND: </span>
     </div>
     <div>
-      <span class="main-text">{{ round }} / 5</span>
+      <span class="main-text">{{ round }} / 3</span>
     </div>
     <div class="round-score-wrapper">
       <span class="sub-text">SCORE: </span>

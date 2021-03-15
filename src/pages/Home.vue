@@ -45,7 +45,7 @@
         </v-row>
         <v-row justify="center">
           <div class="description-wrapper">
-            Geoguess Master is a free geoguess game. Players compete how close each player can guess a random locations in five rounds. You can play multiplayer game with your friends up to five friends. The first player creates a room and decide a room size, and then other players type the same room name name as the first player decided and the game will start.
+            Geoguess Manulife is a free geoguess game. Players compete how close each player can guess a random locations in five rounds. You can play multiplayer game with your friends up to five friends. The first player creates a room and decide a room size, and then other players type the same room name name as the first player decided and the game will start.
           </div>
         </v-row>
       </v-container>
